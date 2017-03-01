@@ -1,0 +1,3 @@
+# Module test
+# RPC service class, partial path of RPC policy file
+test.client.GreetingService, 81BD9B8F3AB25E63EA2364B14B9C146E.gwt.rpc
